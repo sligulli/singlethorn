@@ -12,7 +12,7 @@ hidedate = true
 &emsp;&emsp; Saturday &nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;  to be announced   
 
 **​​Fees**  
-&emsp;&emsp; $10 first time paperwork fee  
+&emsp;&emsp; $65 Initial visit  
 &emsp;&emsp; $$50 Acupuncture & all other services  
 &emsp;&emsp; Free phone consultations  
 
