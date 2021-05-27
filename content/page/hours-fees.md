@@ -8,7 +8,7 @@ hidedate = true
 
 **Hours**  
 &emsp;&emsp; Wednesday &emsp;&emsp;  12:00 - 5:30  
-&emsp;&emsp; Friday  &emsp;&emsp;&emsp;&emsp;&emsp;  1:00 - 6:30  
+&emsp;&emsp; Friday  &emsp;&emsp;&emsp;&emsp;&emsp;  12:00 - 5:30  
 &emsp;&emsp; Saturday &nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;  to be announced   
 
 **​​Fees**  
